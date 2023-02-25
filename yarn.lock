@@ -3608,6 +3608,13 @@ expo-file-system@~9.3.0:
   dependencies:
     uuid "^3.4.0"
 
+expo-font@~11.1.1:
+  version "11.1.1"
+  resolved "https://registry.yarnpkg.com/expo-font/-/expo-font-11.1.1.tgz#268eed407e94f6e88083c01b68c357d010748d23"
+  integrity sha512-X+aICqYY69hiiDDtcNrjq8KutHrH2TrHuMqk0Rfq0P7hF6hMd+YefwLBNkvIrqrgmTAuqiLjMUwj2rHLqmgluw==
+  dependencies:
+    fontfaceobserver "^2.1.0"
+
 expo-font@~8.4.0:
   version "8.4.0"
   resolved "https://registry.yarnpkg.com/expo-font/-/expo-font-8.4.0.tgz#7cb4cc9d852dd8d0977ce425146b94221b40c1d5"
